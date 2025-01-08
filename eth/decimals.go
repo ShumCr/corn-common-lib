@@ -1,5 +1,6 @@
 package eth
 
+// bad naming
 import (
 	"math/big"
 

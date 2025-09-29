@@ -1,6 +1,6 @@
 package bitcoin
 
-import (
+import (t
 	"bytes"
 	"crypto/sha256"
 
